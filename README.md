@@ -21,11 +21,11 @@ To see the Semantic Theme in action open in your browser:
 To modify the theme change variables of the component you want to change.
 This variables are located inside:
 
-```/semantic/src/themes/default/ ```
+```/semantic/src/themes/newtheme/ ```
 
 For example to change the color of the theme go to:
 
-```/semantic/src/themes/default/globals/site.variables```
+```/semantic/src/themes/newtheme/globals/site.variables```
 
 and change a variable (e.g.)
 
@@ -36,7 +36,7 @@ This change will affect multiple components that use the   `primaryColor` variab
 To change more specific details of the theme go directly to the component variables file
  For example to change a button details go to:
 
-```/semantic/src/themes/default/elements/site.variables```
+```/semantic/src/themes/newtheme/elements/site.variables```
 
 ### Important
 
