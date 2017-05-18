@@ -67,6 +67,13 @@ or by specific component
 
 etc..
 
+### Overrides
+
+If additional CSS, not included in the definition, is necessary for a theme, or to adjust an element for your site, it is recommended to use an .override file.
+
+More information here:
+http://learnsemantic.com/themes/overview.html#css-overrides
+
 
 
 
