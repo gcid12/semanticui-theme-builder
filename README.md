@@ -2,7 +2,7 @@
 Basic implementation of Semantic UI to start building Semantic UI themes
 
 
-##Installation
+### Installation
 ```npm install```
 
 Answer 3 questions as:
@@ -12,12 +12,12 @@ Build Semantic for the very first time
 ```cd Semantic```
 ```gulp build```
 
-##Seeing in browser
+### Seeing in browser
 
 To see the Semantic Theme in action open in your browser:
 ``` /public/examples/theming.html ```
 
-##Modifying the Theme
+### Modifying the Theme
 To modify the theme change variables of the component you want to change.
 This variables are located inside:
 
@@ -38,7 +38,7 @@ To change more specific details of the theme go directly to the component variab
 
 ```/semantic/src/themes/default/elements/site.variables```
 
-##Important
+### Important
 
 To see the changes reflected in the browser you need to re-compile Semantic UI
 
