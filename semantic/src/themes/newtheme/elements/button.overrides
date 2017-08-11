@@ -1,3 +1,14 @@
 /*******************************
          Theme Overrides
 *******************************/
+
+.ui.secondary.button {
+
+/* Rectangle 56 Copy: */
+background: #2EA2F8;
+border-radius: 4px;
+/* Primary: */
+font-family: Roboto-Regular;
+font-size: 14px;
+color: #FFFFFF;
+}
